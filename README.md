@@ -41,4 +41,4 @@ A collection of my Linux dotfiles, featuring a polished KDE Plasma setup and a t
 
 ## 📸 Screenshots
 
-*(Add your screenshots here to show off the rice!)*
+![Rice Preview](assets/dotfile.mp4)
