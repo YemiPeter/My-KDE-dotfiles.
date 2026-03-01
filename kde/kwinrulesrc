@@ -1,0 +1,20 @@
+[7767a1b2-3aac-40c6-8ad4-fbdcd120703e]
+Description=Application settings for org.kde.konsole
+opacityactive=91
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[9642f2cd-9d65-4d86-85ac-35549bf12a64]
+Description=Application settings for kitty
+opacityactiverule=2
+opacityinactiverule=2
+wmclass=kitty
+wmclassmatch=1
+
+[General]
+count=2
+rules=7767a1b2-3aac-40c6-8ad4-fbdcd120703e,9642f2cd-9d65-4d86-85ac-35549bf12a64

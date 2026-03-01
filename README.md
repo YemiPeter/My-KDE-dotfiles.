@@ -1,23 +1,44 @@
-# 🎨 Fastfetch Ricing & HEIF Support Fix
+# 🎨 Personal KDE & Terminal Rice
 
-This repository contains my personal `fastfetch` configuration, including a custom random image script and a polished "boxed" info layout.
+A collection of my Linux dotfiles, featuring a polished KDE Plasma setup and a terminal experience optimized for aesthetics and productivity.
 
-## ✨ Features
-- **Dynamic Image Selection:** A bash script that picks a random image from a folder every time the terminal opens.
-- **HEIF/HEIC Support:** Fixed the common issue where modern high-efficiency image formats weren't being detected or rendered.
-- **Boxed Info Layout:** A clean, categorized, and bordered display for system information.
-- **Automated Startup:** Integrated directly into `.zshrc`.
+## ✨ Highlights
 
-## 📂 Structure
-- `fastfetch/config.jsonc`: The main configuration for the boxed layout.
-- `fastfetch/random-fetch.sh`: The logic for picking images (now supports PNG, JPG, HEIC, WebP, AVIF, SVG).
-- `zshrc`: Example of how to trigger the fetch on startup.
+### 🖥️ KDE Plasma Rice
+- **Global Theme:** A curated blend of consistent colors and modern aesthetics.
+- **Window Manager:** Customized KWin rules and effects for smooth animations.
+- **Panel Layout:** Personalized taskbar and widgets for a clean workflow.
+- **Applications:** Tailored configurations for Dolphin, Kate, and Gwenview.
 
-## 🚀 How to use
-1. Clone this repo.
-2. Copy the `fastfetch` folder to `~/.config/`.
-3. Put your images in `~/Pictures/fastfetch_images/`.
-4. Add `~/.config/fastfetch/random-fetch.sh` to your `.zshrc`.
+### 🐚 Terminal Experience
+- **Shell:** Zsh with [Oh My Zsh](https://ohmyz.sh/) and the `p10k` theme.
+- **Fetch Script:** Custom `fastfetch` setup with a boxed info layout and random image selection.
+- **Terminals:** Configurations for Alacritty, Ghostty, Kitty, and the standard Konsole.
+- **Editor:** `micro` with custom color schemes.
 
----
-*Generated with the help of Gemini CLI.*
+## 📂 Repository Structure
+
+- `.config/`: Application-specific configurations (Alacritty, Fastfetch, Ghostty, Fish, Btop, etc.).
+- `kde/`: Global KDE Plasma configuration files (`kdeglobals`, `kwinrc`, etc.).
+- `zsh/`: Zsh configurations (`zshrc`, `.p10k.zsh`).
+- `install.sh`: A simple script to symlink everything to your home directory.
+
+## 🚀 Installation
+
+> [!CAUTION]
+> **Backup your current configuration!** The installation script will overwrite existing files.
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/dotfiles.git
+   cd dotfiles
+   ```
+2. Run the installation script:
+   ```bash
+   chmod +x install.sh
+   ./install.sh
+   ```
+
+## 📸 Screenshots
+
+*(Add your screenshots here to show off the rice!)*

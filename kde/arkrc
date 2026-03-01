@@ -1,0 +1,12 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/Theme Download/New Folder/,$HOME/Downloads/Theme Download/,$HOME/Downloads/Kvantum/,$HOME/Downloads/ZIP FILE/,$HOME/Downloads/
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

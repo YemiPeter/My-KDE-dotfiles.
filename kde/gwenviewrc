@@ -1,0 +1,31 @@
+[General]
+BackgroundColorMode=DocumentView::Neutral
+LastUsedVersion=210800
+SideBarPage=operations
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/fastfetch_images/HEIF Image 4.heic
+File10[$e]=$HOME/Pictures/Screenshots/Screenshot_20260227_203439.png
+File2[$e]=$HOME/Pictures/fastfetch_images/image-removebg-preview (1).png
+File3[$e]=afc://00008110-001c6d3e027a801e/DCIM/105APPLE/IMG_5125.JPG
+File4[$e]=$HOME/Pictures/fastfetch_images/e98728b5fd87397a31957d10d34c311a-fotor-bg-remover-2026022502319.png
+File5[$e]=$HOME/Pictures/fastfetch_images/HEIF Image.heic
+File6[$e]=$HOME/Pictures/fastfetch_images/HEIF Image 2.heic
+File7[$e]=$HOME/Pictures/fastfetch_images/HEIF Image 2 (7).heic
+File8[$e]=$HOME/Downloads/Downloads/2f84a10ef4fbe3b6833cbf86be4f5ca6.jpg
+File9[$e]=$HOME/Pictures/WALLPAPER/6f9402b570c699514de1a4a1f1dbcacd.jpg
+Name1[$e]=HEIF Image 4.heic
+Name10[$e]=Screenshot_20260227_203439.png
+Name2[$e]=image-removebg-preview (1).png
+Name3[$e]=IMG_5125.JPG
+Name4[$e]=e98728b5fd87397a31957d10d34c311a-fotor-bg-remover-2026022502319.png
+Name5[$e]=HEIF Image.heic
+Name6[$e]=HEIF Image 2.heic
+Name7[$e]=HEIF Image 2 (7).heic
+Name8[$e]=2f84a10ef4fbe3b6833cbf86be4f5ca6.jpg
+Name9[$e]=6f9402b570c699514de1a4a1f1dbcacd.jpg
+
+[SideBar]
+InformationSplitterSizes=220,255
+IsVisible ViewMode=true
+SideBarSplitterSizes=250,719
